@@ -2,7 +2,7 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8e5e499af46f43e6969f20ccc8e7d580)](https://www.codacy.com/gh/valerii-martell/Data-Mining/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=valerii-martell/Data-Mining&amp;utm_campaign=Badge_Grade)
 
-Programming assignments (Jupyter notebooks) in Ph.D. university course "Data Mining"
+Programming assignments (Jupyter notebooks) in Ph.D. university course "Data Mining".
 
 **Technology stack used:**
 1. Python
